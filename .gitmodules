@@ -1,6 +1,6 @@
 [submodule "ext/pybind11"]
 	path = ext/pybind11
-	url = git@github.com:pybind/pybind11.git
+	url = https://github.com/pybind/pybind11.git
 [submodule "ext/RansacLib"]
 	path = ext/RansacLib
-	url = git@github.com:tsattler/RansacLib.git
+	url = https://github.com/tsattler/RansacLib.git
